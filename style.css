@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #0b4766;
+  color: #eee;
+}
+
+#app {
+  margin-top: 5rem;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #0caadc;
+  font-weight: 900;
+}
+
+.header {
+  color: #0caadc;
+  background-color: #021a1b;
+  display: inline-block;
+  width: 100%;
+  font-size: 2rem;
+  height: 3rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0.5rem;
+  margin: 0;
+}
